@@ -335,10 +335,7 @@ passions:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MianMHaroon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MianMHaroon&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianMHaroon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MianMHaroon&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="MianMHaroon Streak" />
 
 </div>
 
